@@ -31,7 +31,7 @@ Use the `libft.pdf` to get started.
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:HishamEltayb/Libft.git
+   git clone https://github.com/HishamEltayb/Libft.git
    ```
 2. Makefile
    ```js
